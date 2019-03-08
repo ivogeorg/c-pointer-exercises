@@ -20,6 +20,10 @@ In-class C pointer exercises. If not finished, will be due as homework.
 3. Assign values in a loop.
 4. Step through the code with the debugger.
 
+##### Sketch
+
+![Static array (global or local)](/images/static_array.jpg)
+
 ### Dynamic arrays
 
 #### Monolithic array
@@ -30,6 +34,10 @@ In-class C pointer exercises. If not finished, will be due as homework.
 4. Free all dynamic memory.
 5. Step through the code with the debugger.
 
+##### Sketch
+
+![Static array (global or local)](/images/dynamic_monolithic_array.jpg)
+
 #### Array of pointers
 1. Define a structure.
 2. Allocate a *dynamic* array of **pointers** to structures. What is the type of the array variable?
@@ -37,6 +45,10 @@ In-class C pointer exercises. If not finished, will be due as homework.
 3. Assign values in a loop.
 4. Free all dynamic memory. Mind the order to avoid leaving dangling pointers!
 5. Step through the code with the debugger.
+
+##### Sketch
+
+![Static array (global or local)](/images/dynamic_array_of_pointers.jpg)
 
 ## Linked lists
 1. Declare a node structure for a singly-linked list, holding a single `int` value.
