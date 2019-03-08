@@ -36,7 +36,7 @@ In-class C pointer exercises. If not finished, will be due as homework.
 
 ##### Sketch
 
-![Static array (global or local)](/images/dynamic_monolithic_array.jpg)
+![Dynamic monolithic array](/images/dynamic_monolithic_array.jpg)
 
 #### Array of pointers
 1. Define a structure.
@@ -48,7 +48,7 @@ In-class C pointer exercises. If not finished, will be due as homework.
 
 ##### Sketch
 
-![Static array (global or local)](/images/dynamic_array_of_pointers.jpg)
+![Dynamic array of pointers](/images/dynamic_array_of_pointers.jpg)
 
 ## Linked lists
 1. Declare a node structure for a singly-linked list, holding a single `int` value.
