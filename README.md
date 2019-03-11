@@ -57,3 +57,7 @@ In-class C pointer exercises. If not finished, will be due as homework.
 4. Reason out the different assignment cases for the `list_insert` function. The nodes have to be inserted *in ascending order*. How should the pointer member of the node structure be initialized by default?
 5. Implement the `list_insert` function, for all cases you came up with.
 6. Test the function for all the cases. Run in the debugger to see if it works. Correct it.
+
+##### Sketch
+
+![Singly-linked list](/images/linked_list.jpg)
